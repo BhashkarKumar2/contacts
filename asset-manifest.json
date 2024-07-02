@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BhashkarKumar2/contacts/static/css/main.94a2738a.css",
+    "main.js": "/BhashkarKumar2/contacts/static/js/main.ae376c0d.js",
+    "static/js/453.1fa24651.chunk.js": "/BhashkarKumar2/contacts/static/js/453.1fa24651.chunk.js",
+    "index.html": "/BhashkarKumar2/contacts/index.html",
+    "main.94a2738a.css.map": "/BhashkarKumar2/contacts/static/css/main.94a2738a.css.map",
+    "main.ae376c0d.js.map": "/BhashkarKumar2/contacts/static/js/main.ae376c0d.js.map",
+    "453.1fa24651.chunk.js.map": "/BhashkarKumar2/contacts/static/js/453.1fa24651.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94a2738a.css",
+    "static/js/main.ae376c0d.js"
+  ]
+}
